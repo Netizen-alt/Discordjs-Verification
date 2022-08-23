@@ -1,0 +1,16 @@
+{
+  "name": "buttonrole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "A'Masuki#7824",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}
