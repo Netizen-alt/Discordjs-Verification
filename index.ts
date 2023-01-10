@@ -15,11 +15,6 @@ client.on('ready', () => console.log('VcProject Developer By: JJ TEAM')
 
 );
 
-// client.user?.setPresence({
-//     activities: [{ name: `JJ TEAM`, type: ActivityType.Watching }],
-//     status: 'dnd',
-//   });
-
 client.on('interactionCreate',(interaction) => {
     if (interaction.isChatInputCommand()) {
         switch (interaction.commandName) {
