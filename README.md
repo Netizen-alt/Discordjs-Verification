@@ -2,7 +2,7 @@
 BASIC DJS 14 BUTTON VERIFI ROLE
 ## Download
 ```bash
-git clone https://github.com/JKTheRipperTH/Discordjs-Verification/
+git clone https://github.com/Netizen-alt/Discordjs-Verification/
 ```
 
 ### Requirement
